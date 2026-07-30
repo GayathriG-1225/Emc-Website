@@ -1,6 +1,5 @@
 # Error Makes Clever Academy 🚀
-
-A responsive training academy website built using HTML, CSS, and JavaScript.
+A responsive training academy website built using HTML5.
 
 ## Features
 - Home page
