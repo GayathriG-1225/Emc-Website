@@ -12,14 +12,13 @@ A responsive training academy website built using HTML, CSS, and JavaScript.
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript
 
 ## Navigation
 - Register for a Course → opens the Registration Form page
 - Instagram → opens the EMC Instagram page
 - YouTube → opens the EMC YouTube channel
 
-## Author
-Gayathri G
-B.Tech – ICT
+## 👩‍💻 Author
+**Gayathri G**  
+B.Tech – ICT (2026 Graduate)  
+Aspiring Frontend & Full Stack Developer
